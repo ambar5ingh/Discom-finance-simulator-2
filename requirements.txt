@@ -1,0 +1,8 @@
+pandas>=2
+numpy
+panel==1.9.4
+bokeh==3.9.2
+matplotlib
+jupyterlab
+nbconvert
+pytest
